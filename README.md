@@ -1,4 +1,3 @@
-Got it! You want a **clean, professional, and complete README** for your AI Resume Builder project that **doesn’t mention Lovable** and is suitable for GitHub. Here’s a polished version you can use:
 
 ---
 
@@ -99,3 +98,4 @@ src/
 * User authentication and save progress
 
 ---
+
